@@ -1,11 +1,11 @@
 # Grog
 ## What ?
-Grog (Go+Rogue) is a roguelike about getting the Holy-Grog because the Graal wase already taken.
+Grog (Go+Rogue) is a roguelike about getting the Holy-Grog because the Graal was already taken.
 ## Why ?
 Because I can.
 ## Goals
 1. Create a bare-bone roguelike (procedural dungeon with a character moving)
-2. Add multiplayer (-> networking stuff)
+2. ~~Add multiplayer (-> networking stuff)~~ (too complexe)
 3. Start adding basic mechanics
 	1. fighting (will be extended for sure)
 	2. inventory
